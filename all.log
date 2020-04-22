@@ -1,0 +1,30 @@
+2020-04-21 18:27:45.662 [main] INFO  TestCases.RegistrationPageTest - ************* RegistratioPage TestCase **************** 
+2020-04-21 18:27:48.986 [main] INFO  TestCases.RegistrationPageTest - WebDriver will launched
+2020-04-21 18:27:52.779 [main] DEBUG TestCases.RegistrationPageTest - Driver will invoke website
+2020-04-21 18:27:56.543 [main] INFO  TestCases.RegistrationPageTest - Clicking Register Button
+2020-04-21 18:27:59.692 [main] INFO  TestCases.RegistrationPageTest - Entering Fullname
+2020-04-21 18:27:59.940 [main] INFO  TestCases.RegistrationPageTest - Entering email
+2020-04-21 18:28:00.091 [main] INFO  TestCases.RegistrationPageTest - Entering password
+2020-04-21 18:28:00.212 [main] INFO  TestCases.RegistrationPageTest - Confirming password
+2020-04-21 18:28:00.419 [main] INFO  TestCases.RegistrationPageTest - Clicking first radio button
+2020-04-21 18:28:00.510 [main] INFO  TestCases.RegistrationPageTest - Clicking second radio button
+2020-04-21 18:28:02.591 [main] INFO  TestCases.RegistrationPageTest - Clicking submit button
+2020-04-21 18:28:02.856 [main] DEBUG TestCases.RegistrationPageTest - ************* Closing RegistratioPage TestCase **************** 
+2020-04-21 18:28:02.934 [main] INFO  TestCases.LoginPageTest - ************* LoginPage TestCase **************** 
+2020-04-21 18:28:04.485 [main] INFO  TestCases.LoginPageTest - WebDriver will launched
+2020-04-21 18:28:07.981 [main] DEBUG TestCases.LoginPageTest - Driver will invoke website
+2020-04-21 18:28:11.625 [main] INFO  TestCases.LoginPageTest - Clicking Login Button
+2020-04-21 18:28:11.973 [main] INFO  TestCases.LoginPageTest - Username has entered
+2020-04-21 18:28:12.098 [main] INFO  TestCases.LoginPageTest - Password has entered
+2020-04-21 18:28:15.339 [main] INFO  TestCases.LoginPageTest - Clicked the signin button
+2020-04-21 18:28:16.988 [main] DEBUG TestCases.LoginPageTest - Driver will invoke website
+2020-04-21 18:28:18.847 [main] INFO  TestCases.LoginPageTest - Clicking Login Button
+2020-04-21 18:28:19.329 [main] INFO  TestCases.LoginPageTest - Username has entered
+2020-04-21 18:28:19.477 [main] INFO  TestCases.LoginPageTest - Password has entered
+2020-04-21 18:28:22.945 [main] INFO  TestCases.LoginPageTest - Clicked the signin button
+2020-04-21 18:28:23.150 [main] DEBUG TestCases.LoginPageTest - ************* Closing LoginPage TestCase **************** 
+2020-04-21 18:28:23.161 [main] INFO  TestCases.ValidateTitle - *************Validating Title TestCase **************** 
+2020-04-21 18:28:24.678 [main] INFO  TestCases.ValidateTitle - WebDriver will launched
+2020-04-21 18:28:29.135 [main] DEBUG TestCases.ValidateTitle - Driver will invoke website
+2020-04-21 18:28:29.157 [main] INFO  TestCases.ValidateTitle - This will print out the page title
+2020-04-21 18:28:30.573 [main] INFO  TestCases.ValidateTitle - *************Validating Title TestCase Closing **************** 
